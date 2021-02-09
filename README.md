@@ -1,16 +1,12 @@
-# snackbar_example_app
+# Example Flutter Snackbar App
 
-A new Flutter project.
+Example Flutter app implementing a snackbar.
+
+![Image of DrawerApp](https://media0.giphy.com/media/0g36F2p7J8mdajaeuZ/giphy.gif)
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
+For help getting started with Flutter, view the Flutter
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
